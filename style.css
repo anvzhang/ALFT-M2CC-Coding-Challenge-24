@@ -1,0 +1,30 @@
+body {
+  font-family: "Gill Sans", sans-serif;
+  background-color: #cbdce7;
+  text-align: center;
+}
+
+li {
+  text-indent: -2.5em;
+}
+
+.about {
+  background-color: lightblue;
+  border: solid darkblue;
+}
+
+a:link, a:visited {
+  color: darkcyan;
+  text-decoration-line: none;
+}
+
+a:hover {
+  color: #11e4e4;
+}
+
+img {
+  border: 4px double #4087e2;
+  border-radius: 10% 10% 25% 25%;
+}
+
+/* Apply CSS styles to three of your HTML elements to make the page visually appealing. */
